@@ -4,6 +4,7 @@
 :scout_ml: http://dev.eclipse.org/mailman/listinfo/scout-dev
 :scout_contrib: http://wiki.eclipse.org/Scout/Contribution
 :scout_branch: https://wiki.eclipse.org/Scout/Contribution_Guidelines#Git_Branching_Policy
+:scout_docs_repo: https://github.com/BSI-Business-Systems-Integration-AG/org.eclipse.scout.docs
 :bugzilla: http://bugs.eclipse.org/bugs/
 :bugzilla_query: http://bugs.eclipse.org/bugs/enter_bug.cgi?product=Scout&component=Scout%20Docs
 :bugzilla_new: http://bugs.eclipse.org/bugs/enter_bug.cgi?product=Scout&component=Scout%20Docs
@@ -16,11 +17,19 @@
 
 = Eclipse Scout - Docs
 
-This Repository is part of the *Eclipse Scout* project.
+This Repository is the intended future home for the Scout documentation.
+
+The documentation of the *Eclipse Scout* project is currently located in this link:{scout_docs_repo}[Github repository]. 
 It contains the source of the documentation items (Eclipse Help, Scout Books, HTML pages...) and some demo applications created with the framework.
 
 link:{scout_home}[Eclipse Scout] is a mature and open framework for modern, service oriented business applications.
-It substantially boosts developer productivity and is simple to learn.
+The framework is based on Java/HTML5. 
+
+Eclipse Scout is built to
+
+* Support the implementation of sustainable business applications
+* Boosts developer productivity
+* Make it simple to learn
 
 
 
