@@ -1,0 +1,14 @@
+
+// this is initDoc document used by all modules when displayed as standalone document.
+
+ifndef::imgsdir[:imgsdir: ../imgs]
+ifndef::codedir[:codedir: ../../code]
+ifndef::mdledir[:mdledir: .]
+
+:sectanchors:
+
+:sdk_wizard_nls-entry: New Text Entry Wizard
+:sdk_wizard_language: Add a Language Wizard
+:sdk_editor_nls: Scout NLS Editor
+
+include::_initCommon.adoc[]

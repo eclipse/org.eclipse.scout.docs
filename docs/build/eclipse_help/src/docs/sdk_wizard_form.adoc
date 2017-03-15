@@ -1,0 +1,17 @@
+==== New Form Wizard
+:doctype: article
+:revnumber: {project-version}
+include::_initDoc.adoc[]
+
+//fallback for safe mode == secure:
+ifndef::imgsdir[:imgsdir: ../../../../imgs]
+ifndef::codedir[:codedir: ../../../../../code]
+ifndef::mdledir[:mdledir: ../../../../adoc]
+:experimental:
+
+include::{mdledir}/SdkWizardForm.adoc[]
+
+'''
+Go back to the <<sdk_wizard.adoc#, Scout Wizards>>.
+
+include::{mdledir}/_footer-text.adoc[]

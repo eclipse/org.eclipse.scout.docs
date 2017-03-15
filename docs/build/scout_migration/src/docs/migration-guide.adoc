@@ -1,0 +1,20 @@
+= Eclipse Scout: Migration Guide
+:doctype: article
+:author: Scout Team
+:email: scout-dev@eclipse.org
+:revnumber: {project-version}
+include::_initDoc.adoc[]
+
+//fallback for safe mode == secure:
+ifndef::imgsdir[:imgsdir: ../../../../imgs]
+ifndef::codedir[:codedir: ../../../../../code]
+ifndef::mdledir[:mdledir: ../../../../adoc]
+:experimental:
+
+:toc: left
+
+//:numbered:
+
+include::{mdledir}/migration/MigrationGuide.adoc[]
+
+include::{mdledir}/_footer.adoc[]
