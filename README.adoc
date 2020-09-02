@@ -5,6 +5,8 @@
 
 = Eclipse Scout - Docs
 
+⚠️ You find the current documentation here: ** link:{scout_docs_repo}[Github repository of current documentation]. **
+
 This repo is not in use anymore. The documentation of the *Eclipse Scout* project is currently located in this link:{scout_docs_repo}[Github repository]. 
 It contains the source of the documentation items (Eclipse Help, Scout Books, HTML pages...) and some demo applications created with the framework.
 
